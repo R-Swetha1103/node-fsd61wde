@@ -12,7 +12,7 @@
     "url": "git+https://github.com/R-Swetha1103/node-fsd61wde.git"
   },
   "keywords": [
-    "backend", 
+    "backend",
     "nodeJS",
     "expressJS",
     "mongoDB",
@@ -32,5 +32,11 @@
   "bugs": {
     "url": "https://github.com/R-Swetha1103/node-fsd61wde/issues"
   },
-  "homepage": "https://github.com/R-Swetha1103/node-fsd61wde#readme"
+  "homepage": "https://github.com/R-Swetha1103/node-fsd61wde#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
